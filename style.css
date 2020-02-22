@@ -3,6 +3,11 @@
   margin: 0;
   padding: 0;
 }
+.background {
+  background-color: rgb(0, 0, 0);
+  color: rgb(217, 217, 217);
+}
+
 .header {
   margin-bottom: 30px;
   padding-left: 74px;
@@ -10,9 +15,9 @@
 .container {
   display: flex;
   flex-direction: column;
-  background-color: rgb(0, 0, 0);
+
   font-family: sans-serif;
-  color: rgb(217, 217, 217);
+
   padding: 40px 0px 40px 0px;
 }
 .post-wrapper {
