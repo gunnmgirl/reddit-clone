@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  margin-bottom: 30px;
+  padding-left: 74px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(0, 0, 0);
+  font-family: sans-serif;
+  color: rgb(217, 217, 217);
+  padding: 40px 0px 40px 0px;
+}
+.post-wrapper {
+  list-style-type: none;
+  padding: 0px 40px 0px 40px;
+  margin: 0;
+}
+.post {
+  font-size: 13px;
+  padding-bottom: 26px;
+  padding-left: 34px;
+}
+.post:hover {
+  background: rgb(38, 38, 38);
+}
+.post-title {
+  font-size: 18px;
+  padding-bottom: 8px;
+}
+a {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: rgb(217, 217, 217);
+}
