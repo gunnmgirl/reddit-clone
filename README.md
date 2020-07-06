@@ -1,6 +1,7 @@
 # Reddit clone
 
 Simple reddit clone.
+My first VanillaJS project.
 
 ![Screenshot](docs/images/screenshot.png)
 
